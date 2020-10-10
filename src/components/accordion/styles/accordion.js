@@ -29,6 +29,9 @@ export const Item = styled.div`
   color: white;
   margin-bottom: 10px;
   max-width: 815px;
+  margin: auto;
+  width: 100%;
+  margin-bottom: 4px;
 
   &:first-of-type {
     margin-top: 3em;
